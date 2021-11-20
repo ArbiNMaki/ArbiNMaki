@@ -20,7 +20,7 @@
 
 
 ### 🚀 How to reach me:
-- Email: [arbinmaki919@gmail.com](arbinmaki919@gmail.com)
+- Email: arbinmaki919@gmail.com
 - LinkedIn: [Arbi Dwi Wijaya](https://www.linkedin.com/in/arbidwiwijaya)
 - Twitter: [@kalista69666](https://twitter.com/kalista69666)
 
