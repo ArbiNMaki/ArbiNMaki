@@ -8,15 +8,15 @@
 -.
 
 ## 💻 Experiences
-- Pure JavaScript/TypeScript
-- GIT (VCS)
-- JavaScript Ecosystem & Environment (*Real-time, Asynchronous/Concurrent Processing*)
-- React Web (*Hooks, Context API, Redux*)
+- JavaScript/TypeScript
+- ReactJS
 - NextJS
 - Bootstrap
 - Tailwind
 - Styled-Component
 - Storybook
+- JEST
+- RTL
 
 
 ### 🚀 How to reach me:
